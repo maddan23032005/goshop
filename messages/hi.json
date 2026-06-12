@@ -1,0 +1,87 @@
+{
+    "nav": {
+        "home": "होम",
+        "shop": "शॉप",
+        "about": "हमारे बारे में",
+        "contact": "संपर्क",
+        "cart": "कार्ट",
+        "wishlist": "विशलिस्ट",
+        "myStore": "मेरी दुकान",
+        "login": "लॉगिन",
+        "aiSearch": "AI खोज",
+        "imageSearch": "छवि खोज"
+    },
+    "hero": {
+        "news": "समाचार",
+        "freeShipping": "$50 से ऊपर मुफ्त डिलीवरी!",
+        "title": "गैजेट्स जो आप पसंद करेंगे। कीमतें जिन पर आप भरोसा करेंगे।",
+        "startsFrom": "शुरुआत से",
+        "learnMore": "और जानें",
+        "bestProducts": "सर्वश्रेष्ठ उत्पाद",
+        "discounts": "20% छूट",
+        "viewMore": "और देखें"
+    },
+    "shop": {
+        "title": "सभी उत्पाद",
+        "searchResults": "खोज परिणाम",
+        "productsFound": "उत्पाद मिले",
+        "categories": "श्रेणियाँ",
+        "all": "सभी",
+        "noProducts": "कोई उत्पाद नहीं मिला",
+        "tryDifferent": "अलग खोज आज़माएं"
+    },
+    "product": {
+        "inStock": "स्टॉक में है",
+        "outOfStock": "स्टॉक में नहीं",
+        "addToCart": "कार्ट में जोड़ें",
+        "quantity": "मात्रा",
+        "soldBy": "विक्रेता",
+        "freeDelivery": "$50 से ऊपर मुफ्त डिलीवरी",
+        "easyReturn": "7 दिन आसान वापसी नीति",
+        "reviews": "समीक्षाएं",
+        "customerReviews": "ग्राहक समीक्षाएं",
+        "noReviews": "अभी तक कोई समीक्षा नहीं",
+        "description": "विवरण",
+        "relatedProducts": "संबंधित उत्पाद",
+        "youMightLike": "आपको यह पसंद आ सकता है"
+    },
+    "cart": {
+        "title": "शॉपिंग कार्ट",
+        "empty": "आपका कार्ट खाली है",
+        "continueShopping": "खरीदारी जारी रखें",
+        "remove": "हटाएं"
+    },
+    "orders": {
+        "title": "मेरे ऑर्डर",
+        "noOrders": "अभी तक कोई ऑर्डर नहीं",
+        "orderID": "ऑर्डर ID",
+        "date": "तारीख",
+        "total": "कुल",
+        "payment": "भुगतान",
+        "status": "स्थिति",
+        "deliveryTo": "डिलीवरी पता",
+        "items": "आइटम",
+        "orderTracking": "ऑर्डर ट्रैकिंग",
+        "rate": "रेट करें"
+    },
+    "footer": {
+        "description": "आपकी सभी जरूरतों के लिए एक जगह।",
+        "quickLinks": "त्वरित लिंक",
+        "support": "सहायता",
+        "newsletter": "न्यूज़लेटर",
+        "subscribe": "सदस्यता लें",
+        "enterEmail": "अपना ईमेल दर्ज करें",
+        "rights": "सर्वाधिकार सुरक्षित"
+    },
+    "common": {
+        "loading": "लोड हो रहा है...",
+        "error": "कुछ गलत हुआ",
+        "save": "सहेजें",
+        "cancel": "रद्द करें",
+        "delete": "हटाएं",
+        "edit": "संपादित करें",
+        "search": "उत्पाद खोजें",
+        "placeOrder": "ऑर्डर करें",
+        "placingOrder": "ऑर्डर हो रहा है..."
+    }
+}

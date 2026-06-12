@@ -1,0 +1,87 @@
+{
+    "nav": {
+        "home": "Home",
+        "shop": "Shop",
+        "about": "About",
+        "contact": "Contact",
+        "cart": "Cart",
+        "wishlist": "Wishlist",
+        "myStore": "My Store",
+        "login": "Login",
+        "aiSearch": "AI Search",
+        "imageSearch": "Image Search"
+    },
+    "hero": {
+        "news": "NEWS",
+        "freeShipping": "Free Shipping on Orders Above $50!",
+        "title": "Gadgets you'll love. Prices you'll trust.",
+        "startsFrom": "Starts from",
+        "learnMore": "LEARN MORE",
+        "bestProducts": "Best products",
+        "discounts": "20% discounts",
+        "viewMore": "View more"
+    },
+    "shop": {
+        "title": "All Products",
+        "searchResults": "Results for",
+        "productsFound": "products found",
+        "categories": "Categories",
+        "all": "All",
+        "noProducts": "No products found",
+        "tryDifferent": "Try a different search or category"
+    },
+    "product": {
+        "inStock": "In Stock",
+        "outOfStock": "Out of Stock",
+        "addToCart": "Add to Cart",
+        "quantity": "Quantity",
+        "soldBy": "Sold by",
+        "freeDelivery": "Free delivery on orders above $50",
+        "easyReturn": "7 days easy return policy",
+        "reviews": "reviews",
+        "customerReviews": "Customer Reviews",
+        "noReviews": "No reviews yet. Be the first to review!",
+        "description": "Description",
+        "relatedProducts": "Related Products",
+        "youMightLike": "You might also like these"
+    },
+    "cart": {
+        "title": "Shopping Cart",
+        "empty": "Your cart is empty",
+        "continueShopping": "Continue Shopping",
+        "remove": "Remove"
+    },
+    "orders": {
+        "title": "My Orders",
+        "noOrders": "No orders yet",
+        "orderID": "Order ID",
+        "date": "Date",
+        "total": "Total",
+        "payment": "Payment",
+        "status": "Status",
+        "deliveryTo": "Delivery to",
+        "items": "Items",
+        "orderTracking": "Order Tracking",
+        "rate": "Rate"
+    },
+    "footer": {
+        "description": "Your one-stop shop for everything you need.",
+        "quickLinks": "Quick Links",
+        "support": "Support",
+        "newsletter": "Newsletter",
+        "subscribe": "Subscribe",
+        "enterEmail": "Enter your email",
+        "rights": "All rights reserved"
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "Something went wrong",
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "edit": "Edit",
+        "search": "Search products",
+        "placeOrder": "Place Order",
+        "placingOrder": "Placing Order..."
+    }
+}
