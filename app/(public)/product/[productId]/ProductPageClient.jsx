@@ -1,7 +1,8 @@
 'use client'
 import ProductDetails from '@/components/ProductDetails'
 import ProductDescription from '@/components/ProductDescription'
-import RelatedProducts from '@/components/RelatedProducts'
+import AlsoBought from '@/components/AlsoBought'
+import Recommendations from '@/components/Recommendations'
 import Loading from '@/components/Loading'
 import { useEffect, useState } from 'react'
 import { useParams } from 'next/navigation'
@@ -38,10 +39,12 @@ export default function ProductPageClient() {
         <div className='max-w-7xl mx-auto px-6 py-10'>
             <ProductDetails product={product} />
             <ProductDescription product={product} />
-            <RelatedProducts
-                category={product.category}
+            <AlsoBought productId={product.id} />
+            <Recommendations
                 productId={product.id}
+                type='similar'
             />
         </div>
     )
 }
+
