@@ -5,6 +5,7 @@ import AIChatbot from "@/components/AIChatbot";
 import OrderAssistant from "@/components/OrderAssistant";
 import ServiceWorkerRegister from "@/components/ServiceWorkerRegister";
 import PWAInstallButton from "@/components/PWAInstallButton";
+import AgentChat from "@/components/AgentChat";
 
 export default function PublicLayout({ children }) {
     return (
@@ -18,6 +19,7 @@ export default function PublicLayout({ children }) {
             <Footer />
             <AIChatbot />
             <OrderAssistant />
+            <AgentChat />
             <PWAInstallButton />
         </div>
     )
